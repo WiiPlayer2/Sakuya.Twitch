@@ -1,0 +1,3 @@
+[submodule "Sakuya.Core"]
+	path = Sakuya.Core
+	url = git@github.com:WiiPlayer2/Sakuya.Core.git
